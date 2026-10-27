@@ -1,0 +1,202 @@
+[
+  {
+    "ticket_id": "PAST-001",
+    "case_id": null,
+    "category": "Hardware",
+    "subject": "Laptop battery drains quickly",
+    "description": "Battery runtime is much shorter than usual.",
+    "resolution_note": "Check power, cables, docking connections, and approved device diagnostics. Escalate hardware faults to desktop support.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-002",
+    "case_id": null,
+    "category": "Printing",
+    "subject": "Printer job is stuck",
+    "description": "Print jobs remain in the queue and do not print.",
+    "resolution_note": "Check printer status and queue, confirm the selected printer, and follow approved queue restart steps.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-003",
+    "case_id": null,
+    "category": "Email",
+    "subject": "Outlook is not syncing",
+    "description": "New messages are not appearing in Outlook.",
+    "resolution_note": "Check service status, restart Outlook, confirm connectivity, and follow the approved mailbox repair steps if needed.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-004",
+    "case_id": null,
+    "category": "Software",
+    "subject": "Application update failed",
+    "description": "The managed application update did not complete.",
+    "resolution_note": "Capture the error, restart the application, verify managed updates, and escalate with logs if the issue continues.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-005",
+    "case_id": null,
+    "category": "Security",
+    "subject": "Endpoint security alert",
+    "description": "The endpoint tool displayed a security alert that needs review.",
+    "resolution_note": "Do not dismiss the alert; preserve evidence and route to the security team for investigation.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-006",
+    "case_id": "CASE-0006",
+    "category": "Account/Access",
+    "subject": "Access denied to shared folder",
+    "description": "The user cannot open a shared folder they normally use.",
+    "resolution_note": "Verify the requester through the approved process, check account status, and use the approved self-service or service-desk reset workflow.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-007",
+    "case_id": null,
+    "category": "Network",
+    "subject": "Cannot reach internal service",
+    "description": "The internal service cannot be reached from the office network.",
+    "resolution_note": "Confirm scope, compare affected users/locations, check approved network status, and escalate broad impact.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-008",
+    "case_id": null,
+    "category": "VPN",
+    "subject": "VPN authentication error",
+    "description": "The VPN client rejects the user's current sign-in.",
+    "resolution_note": "Confirm internet access, restart the approved VPN client, refresh its approved profile, and retry. Escalate if the issue persists.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-009",
+    "case_id": null,
+    "category": "Hardware",
+    "subject": "Laptop will not start",
+    "description": "The laptop does not start when the power button is pressed.",
+    "resolution_note": "Check power, cables, docking connections, and approved device diagnostics. Escalate hardware faults to desktop support.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-010",
+    "case_id": null,
+    "category": "Printing",
+    "subject": "Printer not found",
+    "description": "The managed printer is missing from the user's printer list.",
+    "resolution_note": "Check printer status and queue, confirm the selected printer, and follow approved queue restart steps.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-011",
+    "case_id": null,
+    "category": "Email",
+    "subject": "Cannot send email",
+    "description": "Outlook remains in the sending state and messages stay in the outbox.",
+    "resolution_note": "Check service status, restart Outlook, confirm connectivity, and follow the approved mailbox repair steps if needed.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-012",
+    "case_id": "CASE-0012",
+    "category": "Software",
+    "subject": "Application update failed",
+    "description": "The managed application update did not complete.",
+    "resolution_note": "Capture the error, restart the application, verify managed updates, and escalate with logs if the issue continues.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-013",
+    "case_id": null,
+    "category": "Security",
+    "subject": "Endpoint security alert",
+    "description": "The endpoint tool displayed a security alert that needs review.",
+    "resolution_note": "Do not dismiss the alert; preserve evidence and route to the security team for investigation.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-014",
+    "case_id": null,
+    "category": "Account/Access",
+    "subject": "Access denied to shared folder",
+    "description": "The user cannot open a shared folder they normally use.",
+    "resolution_note": "Verify the requester through the approved process, check account status, and use the approved self-service or service-desk reset workflow.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-015",
+    "case_id": null,
+    "category": "Network",
+    "subject": "Cannot reach internal service",
+    "description": "The internal service cannot be reached from the office network.",
+    "resolution_note": "Confirm scope, compare affected users/locations, check approved network status, and escalate broad impact.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-016",
+    "case_id": null,
+    "category": "VPN",
+    "subject": "Cannot connect to VPN from home",
+    "description": "Internet works, but the approved VPN client fails to connect.",
+    "resolution_note": "Confirm internet access, restart the approved VPN client, refresh its approved profile, and retry. Escalate if the issue persists.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-017",
+    "case_id": null,
+    "category": "Hardware",
+    "subject": "Laptop battery drains quickly",
+    "description": "Battery runtime is much shorter than usual.",
+    "resolution_note": "Check power, cables, docking connections, and approved device diagnostics. Escalate hardware faults to desktop support.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-018",
+    "case_id": "CASE-0018",
+    "category": "Printing",
+    "subject": "Printer job is stuck",
+    "description": "Print jobs remain in the queue and do not print.",
+    "resolution_note": "Check printer status and queue, confirm the selected printer, and follow approved queue restart steps.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-019",
+    "case_id": null,
+    "category": "Email",
+    "subject": "Mailbox search is slow",
+    "description": "Searching the mailbox takes much longer than usual.",
+    "resolution_note": "Check service status, restart Outlook, confirm connectivity, and follow the approved mailbox repair steps if needed.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  },
+  {
+    "ticket_id": "PAST-020",
+    "case_id": null,
+    "category": "Software",
+    "subject": "Business app crashes on launch",
+    "description": "The approved business application closes immediately after launch.",
+    "resolution_note": "Capture the error, restart the application, verify managed updates, and escalate with logs if the issue continues.",
+    "status": "Resolved",
+    "source_type": "past_ticket"
+  }
+]

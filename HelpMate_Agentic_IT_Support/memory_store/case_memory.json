@@ -1,0 +1,1050 @@
+[
+  {
+    "time": "2026-10-12T09:48:50.302153+00:00",
+    "ticket_id": "SCN-P4",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "PAST-019",
+      "TCK-00006"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T09:50:48.785762+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "SECURITY_REVIEW_REQUIRED",
+    "source_ids": [
+      "TCK-00004",
+      "TCK-00013"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T09:51:30.915987+00:00",
+    "ticket_id": "SCN-NORMAL",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "TCK-00038",
+      "TCK-00055"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "time": "2026-10-12T09:51:52.871931+00:00",
+    "ticket_id": "SCN-COLD",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-ACCOUNT-ACCESS-03"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T09:52:08.047239+00:00",
+    "ticket_id": "SCN-CONTRADICTION",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "PAST-006",
+      "PAST-014"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T09:52:16.542858+00:00",
+    "ticket_id": "SCN-OUT-OF-SCOPE",
+    "decision": "ROUTE_OUT_OF_SCOPE",
+    "source_ids": [
+      "KB-HARDWARE-04",
+      "TCK-00004"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T09:52:30.469354+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "TCK-00012",
+      "TCK-00040"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T09:52:44.192278+00:00",
+    "ticket_id": "SCN-P4",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "PAST-019",
+      "TCK-00006"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T09:52:59.345979+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-005",
+      "PAST-013"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T10:13:20.843081+00:00",
+    "ticket_id": "SCN-NORMAL",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "TCK-00038",
+      "TCK-00055"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T10:13:48.228491+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "TCK-00004",
+      "TCK-00013"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T10:17:39.040088+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "TCK-00004",
+      "TCK-00013"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T10:21:51.189218+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "TCK-00004",
+      "TCK-00013"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T10:23:24.131906+00:00",
+    "ticket_id": "SCN-NORMAL",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-NETWORK-06"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T10:23:37.028946+00:00",
+    "ticket_id": "SCN-COLD",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "KB-VPN-01",
+      "TCK-00003"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T10:23:51.515902+00:00",
+    "ticket_id": "SCN-CONTRADICTION",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "PAST-006",
+      "PAST-014"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T10:24:01.607969+00:00",
+    "ticket_id": "SCN-OUT-OF-SCOPE",
+    "decision": "ROUTE_OUT_OF_SCOPE",
+    "source_ids": [
+      "KB-HARDWARE-04",
+      "TCK-00004"
+    ],
+    "confidence": 1
+  },
+  {
+    "time": "2026-10-12T10:24:11.137293+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-007",
+      "PAST-015"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T10:24:24.040283+00:00",
+    "ticket_id": "SCN-P4",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-EMAIL-02",
+      "KB-ACCOUNT-ACCESS-03",
+      "KB-NETWORK-06"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T10:24:38.881304+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-006",
+      "PAST-014",
+      "KB-ACCOUNT-ACCESS-03",
+      "KB-NETWORK-06"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T10:31:19.334483+00:00",
+    "ticket_id": "SCN-NORMAL",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-NETWORK-06"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T10:31:29.676607+00:00",
+    "ticket_id": "SCN-COLD",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "KB-VPN-01",
+      "TCK-00003"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T10:31:38.212324+00:00",
+    "ticket_id": "SCN-CONTRADICTION",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "TCK-00021",
+      "TCK-00025"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T10:31:45.686761+00:00",
+    "ticket_id": "SCN-OUT-OF-SCOPE",
+    "decision": "ROUTE_OUT_OF_SCOPE",
+    "source_ids": [
+      "KB-HARDWARE-04",
+      "TCK-00004"
+    ],
+    "confidence": 1.0
+  },
+  {
+    "time": "2026-10-12T10:32:01.149691+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "TCK-00002",
+      "TCK-00039"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T10:32:30.543390+00:00",
+    "ticket_id": "SCN-P4",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-EMAIL-02",
+      "KB-SOFTWARE-05",
+      "KB-ACCOUNT-ACCESS-03",
+      "PAST-019",
+      "PAST-003"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T10:32:39.755170+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "TCK-00004",
+      "TCK-00013"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T10:41:39.090802+00:00",
+    "ticket_id": "SCN-NORMAL",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "TCK-00038",
+      "TCK-00055"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "time": "2026-10-12T10:41:53.947001+00:00",
+    "ticket_id": "SCN-COLD",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-ACCOUNT-ACCESS-03"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T10:42:08.899688+00:00",
+    "ticket_id": "SCN-CONTRADICTION",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "PAST-006",
+      "PAST-014",
+      "KB-ACCOUNT-ACCESS-03",
+      "KB-SOFTWARE-05"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T10:42:13.540126+00:00",
+    "ticket_id": "SCN-OUT-OF-SCOPE",
+    "decision": "ROUTE_OUT_OF_SCOPE",
+    "source_ids": [
+      "KB-HARDWARE-04",
+      "TCK-00004"
+    ],
+    "confidence": 1.0
+  },
+  {
+    "time": "2026-10-12T10:42:25.292640+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-007",
+      "PAST-015"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T10:42:37.982070+00:00",
+    "ticket_id": "SCN-P4",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-EMAIL-02",
+      "KB-ACCOUNT-ACCESS-03",
+      "PAST-019",
+      "PAST-003",
+      "TCK-00015",
+      "TCK-00017"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T10:42:52.316997+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-005",
+      "PAST-013"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T10:50:14.688079+00:00",
+    "ticket_id": "SCN-NORMAL",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-NETWORK-06"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T10:50:31.890623+00:00",
+    "ticket_id": "SCN-COLD",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-ACCOUNT-ACCESS-03",
+      "PAST-006",
+      "PAST-014",
+      "TCK-00003",
+      "TCK-00007"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T10:50:45.817771+00:00",
+    "ticket_id": "SCN-CONTRADICTION",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "KB-ACCOUNT-ACCESS-03",
+      "KB-SOFTWARE-05",
+      "PAST-006",
+      "PAST-014"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T10:50:53.292139+00:00",
+    "ticket_id": "SCN-OUT-OF-SCOPE",
+    "decision": "ROUTE_OUT_OF_SCOPE",
+    "source_ids": [
+      "KB-HARDWARE-04",
+      "TCK-00004"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T10:51:11.212295+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-007",
+      "PAST-015"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T10:51:25.963263+00:00",
+    "ticket_id": "SCN-P4",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-EMAIL-02",
+      "KB-ACCOUNT-ACCESS-03",
+      "PAST-019",
+      "PAST-003"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T10:51:40.195074+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-005",
+      "PAST-013"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T11:00:50.228733+00:00",
+    "ticket_id": "SCN-NORMAL",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-NETWORK-06"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T11:01:08.005089+00:00",
+    "ticket_id": "SCN-COLD",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-ACCOUNT-ACCESS-03"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T11:01:25.960830+00:00",
+    "ticket_id": "SCN-CONTRADICTION",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "PAST-006",
+      "PAST-014",
+      "KB-ACCOUNT-ACCESS-03",
+      "KB-SOFTWARE-05"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T11:01:31.350980+00:00",
+    "ticket_id": "SCN-OUT-OF-SCOPE",
+    "decision": "ROUTE_OUT_OF_SCOPE",
+    "source_ids": [
+      "KB-HARDWARE-04",
+      "TCK-00004"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T11:01:40.771265+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-007",
+      "PAST-015"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T11:01:47.821786+00:00",
+    "ticket_id": "SCN-P4",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "PAST-019",
+      "TCK-00006"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T11:01:55.209486+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "SECURITY_REVIEW_REQUIRED",
+    "source_ids": [
+      "TCK-00004",
+      "TCK-00013"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T11:02:21.734880+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-007",
+      "PAST-015"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T11:04:53.388826+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-007",
+      "PAST-015"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T11:05:07.717816+00:00",
+    "ticket_id": "SCN-NORMAL",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "TCK-00038",
+      "TCK-00055"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T11:05:26.976956+00:00",
+    "ticket_id": "SCN-COLD",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-ACCOUNT-ACCESS-03"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T11:05:39.673563+00:00",
+    "ticket_id": "SCN-CONTRADICTION",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "PAST-006",
+      "PAST-014"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T11:05:47.500114+00:00",
+    "ticket_id": "SCN-OUT-OF-SCOPE",
+    "decision": "ROUTE_OUT_OF_SCOPE",
+    "source_ids": [
+      "KB-HARDWARE-04",
+      "TCK-00004"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T11:05:58.413612+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-007",
+      "PAST-015"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T11:06:10.906178+00:00",
+    "ticket_id": "SCN-P4",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-EMAIL-02",
+      "KB-ACCOUNT-ACCESS-03",
+      "PAST-019",
+      "PAST-003"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T11:06:26.371918+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "SECURITY_REVIEW_REQUIRED",
+    "source_ids": [
+      "TCK-00004",
+      "TCK-00013"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T11:25:20.866571+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-007",
+      "PAST-015"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T11:26:06.233016+00:00",
+    "ticket_id": "SCN-NORMAL",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "TCK-00038",
+      "TCK-00055"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "time": "2026-10-12T11:26:22.585680+00:00",
+    "ticket_id": "SCN-COLD",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-ACCOUNT-ACCESS-03"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "time": "2026-10-12T11:26:35.617824+00:00",
+    "ticket_id": "SCN-CONTRADICTION",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "PAST-006",
+      "PAST-014",
+      "KB-ACCOUNT-ACCESS-03",
+      "KB-SOFTWARE-05"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T11:26:43.706618+00:00",
+    "ticket_id": "SCN-OUT-OF-SCOPE",
+    "decision": "ROUTE_OUT_OF_SCOPE",
+    "source_ids": [
+      "KB-HARDWARE-04",
+      "TCK-00004"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T11:26:58.638829+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "TCK-00012",
+      "TCK-00040",
+      "PAST-007",
+      "PAST-015"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T11:27:11.666607+00:00",
+    "ticket_id": "SCN-P4",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-EMAIL-02",
+      "KB-ACCOUNT-ACCESS-03",
+      "KB-NETWORK-06",
+      "PAST-019",
+      "PAST-003"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T11:27:18.258338+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "SECURITY_REVIEW_REQUIRED",
+    "source_ids": [
+      "TCK-00004",
+      "TCK-00013"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T11:35:43.257923+00:00",
+    "ticket_id": "SCN-NORMAL",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-NETWORK-06"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T11:35:51.042606+00:00",
+    "ticket_id": "SCN-COLD",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "TCK-00003"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T11:36:04.350115+00:00",
+    "ticket_id": "SCN-CONTRADICTION",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "PAST-006",
+      "PAST-014",
+      "PAST-008",
+      "KB-ACCOUNT-ACCESS-03",
+      "KB-SOFTWARE-05"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T11:36:11.521318+00:00",
+    "ticket_id": "SCN-OUT-OF-SCOPE",
+    "decision": "ROUTE_OUT_OF_SCOPE",
+    "source_ids": [
+      "KB-HARDWARE-04",
+      "TCK-00004"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T11:36:26.404754+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-007",
+      "PAST-015"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T11:36:33.129935+00:00",
+    "ticket_id": "SCN-P4",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "PAST-019",
+      "TCK-00006"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T11:36:40.118970+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "SECURITY_REVIEW_REQUIRED",
+    "source_ids": [
+      "TCK-00004",
+      "TCK-00013"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T12:03:17.870632+00:00",
+    "ticket_id": "SCN-NORMAL",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-NETWORK-06"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T12:03:35.020449+00:00",
+    "ticket_id": "SCN-COLD",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-ACCOUNT-ACCESS-03"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T12:03:48.150401+00:00",
+    "ticket_id": "SCN-CONTRADICTION",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "PAST-006",
+      "PAST-014"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T12:03:58.300567+00:00",
+    "ticket_id": "SCN-OUT-OF-SCOPE",
+    "decision": "ROUTE_OUT_OF_SCOPE",
+    "source_ids": [
+      "KB-HARDWARE-04",
+      "TCK-00004"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T12:04:09.375262+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-007",
+      "PAST-015"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T12:04:31.056828+00:00",
+    "ticket_id": "SCN-P4",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-EMAIL-02",
+      "KB-ACCOUNT-ACCESS-03",
+      "PAST-019",
+      "PAST-003"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T12:04:37.657267+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "SECURITY_REVIEW_REQUIRED",
+    "source_ids": [
+      "TCK-00004",
+      "TCK-00013"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T12:07:18.989963+00:00",
+    "ticket_id": "SCN-NORMAL",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-NETWORK-06"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T12:07:36.331584+00:00",
+    "ticket_id": "SCN-COLD",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-ACCOUNT-ACCESS-03"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T12:07:47.680935+00:00",
+    "ticket_id": "SCN-CONTRADICTION",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "KB-ACCOUNT-ACCESS-03",
+      "KB-SOFTWARE-05"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T12:07:53.604545+00:00",
+    "ticket_id": "SCN-OUT-OF-SCOPE",
+    "decision": "ROUTE_OUT_OF_SCOPE",
+    "source_ids": [
+      "KB-HARDWARE-04",
+      "TCK-00004"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T12:08:04.293945+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-007",
+      "PAST-015"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T12:08:18.788404+00:00",
+    "ticket_id": "SCN-P4",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-EMAIL-02",
+      "KB-ACCOUNT-ACCESS-03",
+      "PAST-019",
+      "PAST-003"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T12:08:30.565602+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "SECURITY_REVIEW_REQUIRED",
+    "source_ids": [
+      "TCK-00004",
+      "TCK-00013"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T12:22:46.104040+00:00",
+    "ticket_id": "SCN-NORMAL",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-NETWORK-06"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T12:23:20.435178+00:00",
+    "ticket_id": "SCN-COLD",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "TCK-00003"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T12:23:37.951098+00:00",
+    "ticket_id": "SCN-CONTRADICTION",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "PAST-006",
+      "PAST-014",
+      "PAST-008",
+      "KB-ACCOUNT-ACCESS-03",
+      "KB-SOFTWARE-05"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T12:23:49.662674+00:00",
+    "ticket_id": "SCN-OUT-OF-SCOPE",
+    "decision": "ROUTE_OUT_OF_SCOPE",
+    "source_ids": [
+      "KB-HARDWARE-04",
+      "TCK-00004"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T12:24:27.776286+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "PAST-007",
+      "PAST-015"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T12:24:43.710411+00:00",
+    "ticket_id": "SCN-P4",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-EMAIL-02",
+      "KB-ACCOUNT-ACCESS-03",
+      "KB-NETWORK-06",
+      "PAST-019",
+      "PAST-003"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T12:25:01.670903+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "SECURITY_REVIEW_REQUIRED",
+    "source_ids": [
+      "PAST-006",
+      "PAST-014"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "time": "2026-10-12T12:25:23.753642+00:00",
+    "ticket_id": "SCN-NORMAL",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-NETWORK-06"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T12:25:37.555813+00:00",
+    "ticket_id": "SCN-COLD",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-VPN-01",
+      "KB-ACCOUNT-ACCESS-03",
+      "PAST-008",
+      "PAST-006"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T12:25:49.305067+00:00",
+    "ticket_id": "SCN-CONTRADICTION",
+    "decision": "CLARIFICATION_REQUIRED",
+    "source_ids": [
+      "KB-ACCOUNT-ACCESS-03",
+      "KB-VPN-01"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "time": "2026-10-12T12:25:56.713782+00:00",
+    "ticket_id": "SCN-OUT-OF-SCOPE",
+    "decision": "ROUTE_OUT_OF_SCOPE",
+    "source_ids": [
+      "KB-HARDWARE-04",
+      "TCK-00004"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "time": "2026-10-12T12:26:11.434319+00:00",
+    "ticket_id": "SCN-P1",
+    "decision": "ESCALATE_HUMAN_APPROVAL",
+    "source_ids": [
+      "PAST-007",
+      "PAST-015"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T12:26:23.715007+00:00",
+    "ticket_id": "SCN-P4",
+    "decision": "DRAFT_READY_FOR_TECHNICIAN",
+    "source_ids": [
+      "KB-EMAIL-02",
+      "KB-ACCOUNT-ACCESS-03",
+      "PAST-019",
+      "PAST-003"
+    ],
+    "confidence": 0.8
+  },
+  {
+    "time": "2026-10-12T12:26:30.974052+00:00",
+    "ticket_id": "SCN-INJECTION",
+    "decision": "SECURITY_REVIEW_REQUIRED",
+    "source_ids": [
+      "TCK-00004",
+      "TCK-00013"
+    ],
+    "confidence": 0.9
+  }
+]

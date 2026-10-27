@@ -1,0 +1,151 @@
+ticket_id,case_id,created_at,requester_id,department,channel,category,affected_system,priority,subject,description,status,assignee_id,resolution_code,time_to_resolve_hours,reopened,sla_breached,csat
+TCK-00001,,2025-02-02T09:07,USR-0002,Finance,Phone,Account/Access,Active Directory,P4,Access denied to shared folder,The user cannot open a shared folder they normally use.,Resolved,TECH-02,User Education,2.87,Yes,No,5
+TCK-00002,,2025-03-03T10:14,USR-0003,HR,Portal,Network,Office network,P3,Cannot reach internal service,The internal service cannot be reached from the office network.,Resolved,TECH-03,User Education,23.96,Yes,No,3
+TCK-00003,,2025-04-04T11:21,USR-0004,Engineering,Email,VPN,Corporate VPN,P3,VPN authentication error,The VPN client rejects the user's current sign-in.,Resolved,TECH-04,Workaround,21.21,No,No,4
+TCK-00004,,2025-05-05T12:28,USR-0005,Ops,Portal,Account/Access,Active Directory,P4,Password reset request,The user needs help with the approved password reset process.,Resolved,TECH-05,Duplicate,16.46,No,No,4
+TCK-00005,,2025-06-06T13:35,USR-0006,Sales,Chat,VPN,Corporate VPN,P3,VPN disconnects repeatedly,The VPN disconnects every few minutes after a client update.,Closed,TECH-06,User Education,9.15,No,No,5
+TCK-00006,,2025-07-07T14:42,USR-0007,Ops,Phone,Email,Outlook,P3,Mailbox search is slow,Searching the mailbox takes much longer than usual.,Resolved,TECH-07,Workaround,1.63,Yes,No,4
+TCK-00007,,2025-08-08T15:49,USR-0008,Engineering,Phone,VPN,Corporate VPN,P4,VPN authentication error,The VPN client rejects the user's current sign-in.,Resolved,TECH-08,Workaround,22.02,No,No,4
+TCK-00008,,2025-09-09T16:56,USR-0009,Engineering,Email,VPN,Corporate VPN,P3,VPN authentication error,The VPN client rejects the user's current sign-in.,Resolved,TECH-01,User Education,1.45,No,No,
+TCK-00009,,2025-10-10T08:03,USR-0010,Finance,Phone,Account/Access,Active Directory,P3,Access denied to shared folder,The user cannot open a shared folder they normally use.,Resolved,TECH-02,Fixed,6.38,No,No,5
+TCK-00010,,2025-11-11T09:10,USR-0011,HR,Chat,VPN,Corporate VPN,P3,VPN authentication error,The VPN client rejects the user's current sign-in.,Closed,TECH-03,Workaround,17.63,No,No,5
+TCK-00011,,2025-12-12T10:17,USR-0012,Finance,Email,VPN,Corporate VPN,P4,VPN disconnects repeatedly,The VPN disconnects every few minutes after a client update.,Resolved,TECH-04,Fixed,20.25,No,No,4
+TCK-00012,,2025-01-13T11:24,USR-0013,Sales,Phone,Network,Office network,P3,Office Wi-Fi is unstable,Wi-Fi disconnects intermittently in one office area.,Resolved,TECH-05,Duplicate,20.17,No,No,5
+TCK-00013,,2025-02-14T12:31,USR-0014,Finance,Phone,Account/Access,Active Directory,P2,Password reset request,The user needs help with the approved password reset process.,Resolved,TECH-06,Workaround,13.93,No,Yes,5
+TCK-00014,,2025-03-15T13:38,USR-0015,Ops,Chat,Hardware,Laptop,P3,Laptop battery drains quickly,Battery runtime is much shorter than usual.,Resolved,TECH-07,Duplicate,2.09,No,No,3
+TCK-00015,,2025-04-16T14:45,USR-0016,Ops,Email,Email,Outlook,P4,Cannot send email,Outlook remains in the sending state and messages stay in the outbox.,Closed,TECH-08,User Education,23.09,No,No,5
+TCK-00016,,2025-05-17T15:52,USR-0017,Ops,Portal,VPN,Corporate VPN,P4,VPN disconnects repeatedly,The VPN disconnects every few minutes after a client update.,Resolved,TECH-01,Workaround,14.81,No,No,3
+TCK-00017,,2025-06-18T16:59,USR-0018,Ops,Email,Email,Outlook,P3,Cannot send email,Outlook remains in the sending state and messages stay in the outbox.,Resolved,TECH-02,Fixed,12.68,No,No,3
+TCK-00018,,2025-07-19T08:06,USR-0019,Ops,Chat,Account/Access,Active Directory,P4,Access denied to shared folder,The user cannot open a shared folder they normally use.,Resolved,TECH-03,Workaround,11.0,No,No,3
+TCK-00019,,2025-08-20T09:13,USR-0020,Finance,Email,Security,Endpoint security,P3,Suspicious sign-in notification,The user received an unexpected sign-in notification.,Resolved,TECH-04,User Education,6.6,No,No,
+TCK-00020,,2025-09-21T10:20,USR-0021,Ops,Portal,VPN,Corporate VPN,P4,VPN disconnects repeatedly,The VPN disconnects every few minutes after a client update.,Closed,TECH-05,User Education,23.84,No,No,
+TCK-00021,,2025-10-22T11:27,USR-0022,HR,Email,Account/Access,Active Directory,P4,Account locked after sign-in attempts,The account reports locked after several unsuccessful sign-in attempts.,Resolved,TECH-06,Fixed,10.42,Yes,No,
+TCK-00022,,2025-11-23T12:34,USR-0023,Engineering,Chat,VPN,Corporate VPN,P3,VPN authentication error,The VPN client rejects the user's current sign-in.,Resolved,TECH-07,User Education,9.88,Yes,No,4
+TCK-00023,,2025-12-24T13:41,USR-0024,Engineering,Phone,VPN,Corporate VPN,P4,VPN authentication error,The VPN client rejects the user's current sign-in.,Resolved,TECH-08,Fixed,7.89,No,No,3
+TCK-00024,,2025-01-25T14:48,USR-0025,Finance,Email,Printing,Network printer,P3,Printer not found,The managed printer is missing from the user's printer list.,Resolved,TECH-01,User Education,16.42,No,No,3
+TCK-00025,,2025-02-26T15:55,USR-0026,Engineering,Email,Account/Access,Active Directory,P3,Account locked after sign-in attempts,The account reports locked after several unsuccessful sign-in attempts.,Closed,TECH-02,Workaround,10.6,No,No,5
+TCK-00026,,2025-03-27T16:02,USR-0027,Finance,Phone,Network,Office network,P3,Office Wi-Fi is unstable,Wi-Fi disconnects intermittently in one office area.,Resolved,TECH-03,Workaround,11.96,No,No,4
+TCK-00027,,2025-04-01T08:09,USR-0028,Finance,Portal,Security,Endpoint security,P2,Suspicious sign-in notification,The user received an unexpected sign-in notification.,Resolved,TECH-04,Workaround,18.73,No,No,5
+TCK-00028,,2025-05-02T09:16,USR-0029,HR,Phone,Software,Business application,P3,Business app crashes on launch,The approved business application closes immediately after launch.,Resolved,TECH-05,Workaround,12.18,No,No,
+TCK-00029,,2025-06-03T10:23,USR-0030,Finance,Portal,Email,Outlook,P3,Outlook is not syncing,New messages are not appearing in Outlook.,Resolved,TECH-06,Duplicate,1.93,No,No,4
+TCK-00030,,2025-07-04T11:30,USR-0031,Engineering,Phone,Email,Outlook,P3,Cannot send email,Outlook remains in the sending state and messages stay in the outbox.,Closed,TECH-07,Workaround,9.36,No,No,3
+TCK-00031,,2025-08-05T12:37,USR-0032,Finance,Portal,Account/Access,Active Directory,P3,Password reset request,The user needs help with the approved password reset process.,Resolved,TECH-08,User Education,5.31,No,No,5
+TCK-00032,,2025-09-06T13:44,USR-0033,Engineering,Email,Email,Outlook,P3,Outlook is not syncing,New messages are not appearing in Outlook.,Resolved,TECH-01,Workaround,1.09,No,No,
+TCK-00033,,2025-10-07T14:51,USR-0034,Ops,Phone,Email,Outlook,P3,Mailbox search is slow,Searching the mailbox takes much longer than usual.,Resolved,TECH-02,Duplicate,16.62,No,No,3
+TCK-00034,,2025-11-08T15:58,USR-0035,Finance,Portal,Software,Business application,P3,Business app crashes on launch,The approved business application closes immediately after launch.,Resolved,TECH-03,User Education,18.4,No,No,
+TCK-00035,,2025-12-09T16:05,USR-0036,Ops,Chat,Account/Access,Active Directory,P3,Account locked after sign-in attempts,The account reports locked after several unsuccessful sign-in attempts.,Closed,TECH-04,Workaround,17.77,No,No,
+TCK-00036,,2025-01-10T08:12,USR-0037,HR,Chat,VPN,Corporate VPN,P4,VPN disconnects repeatedly,The VPN disconnects every few minutes after a client update.,Resolved,TECH-05,Workaround,11.79,No,No,3
+TCK-00037,,2025-02-11T09:19,USR-0038,HR,Email,Email,Outlook,P4,Cannot send email,Outlook remains in the sending state and messages stay in the outbox.,Resolved,TECH-06,Workaround,11.49,No,No,5
+TCK-00038,,2025-03-12T10:26,USR-0039,HR,Portal,VPN,Corporate VPN,P3,Cannot connect to VPN from home,"Internet works, but the approved VPN client fails to connect.",Resolved,TECH-07,User Education,4.97,No,No,
+TCK-00039,,2025-04-13T11:33,USR-0040,Engineering,Phone,Network,Office network,P3,Cannot reach internal service,The internal service cannot be reached from the office network.,Resolved,TECH-08,Fixed,12.87,No,No,4
+TCK-00040,,2025-05-14T12:40,USR-0041,Ops,Phone,Network,Office network,P4,Office Wi-Fi is unstable,Wi-Fi disconnects intermittently in one office area.,Closed,TECH-01,Fixed,12.95,No,No,
+TCK-00041,,2025-06-15T13:47,USR-0042,Finance,Email,Email,Outlook,P3,Mailbox search is slow,Searching the mailbox takes much longer than usual.,Resolved,TECH-02,Duplicate,1.28,No,No,5
+TCK-00042,,2025-07-16T14:54,USR-0043,Sales,Email,Email,Outlook,P3,Cannot send email,Outlook remains in the sending state and messages stay in the outbox.,Resolved,TECH-03,Workaround,8.52,No,No,5
+TCK-00043,,2025-08-17T15:01,USR-0044,HR,Email,VPN,Corporate VPN,P4,VPN authentication error,The VPN client rejects the user's current sign-in.,Resolved,TECH-04,Fixed,16.32,No,No,3
+TCK-00044,,2025-09-18T16:08,USR-0045,Sales,Email,Account/Access,Active Directory,P2,Access denied to shared folder,The user cannot open a shared folder they normally use.,Resolved,TECH-05,User Education,18.62,No,Yes,4
+TCK-00045,,2025-10-19T08:15,USR-0001,Sales,Chat,Email,Outlook,P3,Cannot send email,Outlook remains in the sending state and messages stay in the outbox.,Closed,TECH-06,Duplicate,0.32,No,No,4
+TCK-00046,,2025-11-20T09:22,USR-0002,HR,Email,Account/Access,Active Directory,P4,Access denied to shared folder,The user cannot open a shared folder they normally use.,Resolved,TECH-07,Fixed,12.94,No,No,
+TCK-00047,,2025-12-21T10:29,USR-0003,Engineering,Email,Software,Business application,P4,Business app crashes on launch,The approved business application closes immediately after launch.,Resolved,TECH-08,Fixed,20.5,No,No,3
+TCK-00048,,2025-01-22T11:36,USR-0004,HR,Email,Printing,Network printer,P4,Printer not found,The managed printer is missing from the user's printer list.,Resolved,TECH-01,Fixed,11.87,No,No,4
+TCK-00049,,2025-02-23T12:43,USR-0005,Ops,Portal,Hardware,Laptop,P3,Docking station display issue,An external monitor is not detected through the dock.,Resolved,TECH-02,Duplicate,18.58,No,No,4
+TCK-00050,,2025-03-24T13:50,USR-0006,Ops,Email,Network,Office network,P3,Cannot reach internal service,The internal service cannot be reached from the office network.,Closed,TECH-03,Workaround,20.08,No,No,5
+TCK-00051,,2025-04-25T14:57,USR-0007,Ops,Email,VPN,Corporate VPN,P3,VPN disconnects repeatedly,The VPN disconnects every few minutes after a client update.,Resolved,TECH-04,Duplicate,4.98,No,No,
+TCK-00052,,2025-05-26T15:04,USR-0008,HR,Chat,Email,Outlook,P4,Cannot send email,Outlook remains in the sending state and messages stay in the outbox.,Resolved,TECH-05,User Education,17.02,No,No,
+TCK-00053,,2025-06-27T16:11,USR-0009,Ops,Phone,VPN,Corporate VPN,P4,VPN authentication error,The VPN client rejects the user's current sign-in.,Resolved,TECH-06,User Education,19.51,No,No,3
+TCK-00054,,2025-07-01T08:18,USR-0010,Ops,Portal,Security,Endpoint security,P3,Suspicious sign-in notification,The user received an unexpected sign-in notification.,Resolved,TECH-07,User Education,19.86,No,No,5
+TCK-00055,,2025-08-02T09:25,USR-0011,Ops,Portal,VPN,Corporate VPN,P4,Cannot connect to VPN from home,"Internet works, but the approved VPN client fails to connect.",Closed,TECH-08,Duplicate,17.32,No,No,
+TCK-00056,,2025-09-03T10:32,USR-0012,Sales,Phone,Printing,Network printer,P3,Printer job is stuck,Print jobs remain in the queue and do not print.,Resolved,TECH-01,Duplicate,4.8,No,No,
+TCK-00057,,2025-10-04T11:39,USR-0013,Finance,Chat,Hardware,Laptop,P3,Laptop battery drains quickly,Battery runtime is much shorter than usual.,Resolved,TECH-02,Duplicate,16.87,No,No,5
+TCK-00058,,2025-11-05T12:46,USR-0014,Finance,Phone,Account/Access,Active Directory,P3,Account locked after sign-in attempts,The account reports locked after several unsuccessful sign-in attempts.,Resolved,TECH-03,Duplicate,2.68,No,No,4
+TCK-00059,,2025-12-06T13:53,USR-0015,HR,Phone,Email,Outlook,P3,Cannot send email,Outlook remains in the sending state and messages stay in the outbox.,Resolved,TECH-04,Fixed,18.04,No,No,3
+TCK-00060,,2025-01-07T14:00,USR-0016,Finance,Phone,VPN,Corporate VPN,P3,Cannot connect to VPN from home,"Internet works, but the approved VPN client fails to connect.",Closed,TECH-05,Fixed,18.44,No,No,3
+TCK-00061,,2025-02-08T15:07,USR-0017,HR,Email,VPN,Corporate VPN,P4,VPN authentication error,The VPN client rejects the user's current sign-in.,Resolved,TECH-06,Fixed,17.17,No,No,5
+TCK-00062,,2025-03-09T16:14,USR-0018,Ops,Email,Account/Access,Active Directory,P3,Access denied to shared folder,The user cannot open a shared folder they normally use.,Resolved,TECH-07,Duplicate,0.88,Yes,No,3
+TCK-00063,,2025-04-10T08:21,USR-0019,Finance,Phone,Email,Outlook,P4,Mailbox search is slow,Searching the mailbox takes much longer than usual.,Resolved,TECH-08,Fixed,4.69,No,No,3
+TCK-00064,,2025-05-11T09:28,USR-0020,HR,Portal,Printing,Network printer,P4,Printer not found,The managed printer is missing from the user's printer list.,Resolved,TECH-01,User Education,13.64,No,No,4
+TCK-00065,,2025-06-12T10:35,USR-0021,Finance,Portal,Hardware,Laptop,P4,Docking station display issue,An external monitor is not detected through the dock.,Closed,TECH-02,Duplicate,13.71,No,No,4
+TCK-00066,,2025-07-13T11:42,USR-0022,Finance,Phone,Account/Access,Active Directory,P3,Access denied to shared folder,The user cannot open a shared folder they normally use.,Resolved,TECH-03,User Education,1.14,No,No,4
+TCK-00067,,2025-08-14T12:49,USR-0023,Ops,Portal,Network,Office network,P3,Office Wi-Fi is unstable,Wi-Fi disconnects intermittently in one office area.,Resolved,TECH-04,Fixed,22.09,No,No,4
+TCK-00068,,2025-09-15T13:56,USR-0024,HR,Chat,VPN,Corporate VPN,P3,VPN authentication error,The VPN client rejects the user's current sign-in.,Resolved,TECH-05,Workaround,23.06,No,No,5
+TCK-00069,,2025-10-16T14:03,USR-0025,Ops,Email,VPN,Corporate VPN,P4,Cannot connect to VPN from home,"Internet works, but the approved VPN client fails to connect.",Resolved,TECH-06,Workaround,10.06,No,No,4
+TCK-00070,,2025-11-17T15:10,USR-0026,Finance,Phone,Hardware,Laptop,P3,Docking station display issue,An external monitor is not detected through the dock.,Closed,TECH-07,Duplicate,23.15,No,No,
+TCK-00071,,2025-12-18T16:17,USR-0027,HR,Email,Security,Endpoint security,P3,Suspicious sign-in notification,The user received an unexpected sign-in notification.,Resolved,TECH-08,Duplicate,12.65,No,No,4
+TCK-00072,,2025-01-19T08:24,USR-0028,Engineering,Email,VPN,Corporate VPN,P4,VPN authentication error,The VPN client rejects the user's current sign-in.,Resolved,TECH-01,Duplicate,14.83,No,No,4
+TCK-00073,,2025-02-20T09:31,USR-0029,Sales,Portal,Printing,Network printer,P4,Printer not found,The managed printer is missing from the user's printer list.,Resolved,TECH-02,Workaround,0.85,Yes,No,5
+TCK-00074,,2025-03-21T10:38,USR-0030,Ops,Portal,Network,Office network,P3,Cannot reach internal service,The internal service cannot be reached from the office network.,Resolved,TECH-03,User Education,18.13,No,No,4
+TCK-00075,,2025-04-22T11:45,USR-0031,Sales,Phone,Email,Outlook,P3,Mailbox search is slow,Searching the mailbox takes much longer than usual.,Closed,TECH-04,Fixed,22.83,No,No,
+TCK-00076,,2025-05-23T12:52,USR-0032,HR,Email,Software,Business application,P3,Business app crashes on launch,The approved business application closes immediately after launch.,Resolved,TECH-05,Workaround,22.15,No,No,
+TCK-00077,,2025-06-24T13:59,USR-0033,Engineering,Phone,Hardware,Laptop,P3,Docking station display issue,An external monitor is not detected through the dock.,Resolved,TECH-06,Workaround,13.59,No,No,
+TCK-00078,,2025-07-25T14:06,USR-0034,Ops,Chat,Email,Outlook,P3,Outlook is not syncing,New messages are not appearing in Outlook.,Resolved,TECH-07,User Education,13.1,No,No,3
+TCK-00079,,2025-08-26T15:13,USR-0035,HR,Phone,Email,Outlook,P3,Mailbox search is slow,Searching the mailbox takes much longer than usual.,Resolved,TECH-08,Workaround,2.92,No,No,
+TCK-00080,,2025-09-27T16:20,USR-0036,HR,Email,VPN,Corporate VPN,P3,Cannot connect to VPN from home,"Internet works, but the approved VPN client fails to connect.",Closed,TECH-01,User Education,1.85,No,No,5
+TCK-00081,,2025-10-01T08:27,USR-0037,Engineering,Chat,Hardware,Laptop,P3,Docking station display issue,An external monitor is not detected through the dock.,Resolved,TECH-02,Fixed,9.58,No,No,5
+TCK-00082,,2025-11-02T09:34,USR-0038,Sales,Email,Account/Access,Active Directory,P4,Password reset request,The user needs help with the approved password reset process.,Resolved,TECH-03,Fixed,6.65,No,No,3
+TCK-00083,,2025-12-03T10:41,USR-0039,Sales,Phone,VPN,Corporate VPN,P3,VPN authentication error,The VPN client rejects the user's current sign-in.,Resolved,TECH-04,Duplicate,20.19,No,No,3
+TCK-00084,,2025-01-04T11:48,USR-0040,Ops,Phone,Email,Outlook,P3,Outlook is not syncing,New messages are not appearing in Outlook.,Resolved,TECH-05,Workaround,21.47,No,No,5
+TCK-00085,,2025-02-05T12:55,USR-0041,Ops,Portal,Printing,Network printer,P4,Printer not found,The managed printer is missing from the user's printer list.,Closed,TECH-06,User Education,21.56,No,No,3
+TCK-00086,,2025-03-06T13:02,USR-0042,Finance,Portal,Email,Outlook,P4,Cannot send email,Outlook remains in the sending state and messages stay in the outbox.,Resolved,TECH-07,User Education,14.58,No,No,4
+TCK-00087,,2025-04-07T14:09,USR-0043,Engineering,Chat,Email,Outlook,P3,Outlook is not syncing,New messages are not appearing in Outlook.,Resolved,TECH-08,User Education,9.07,No,No,4
+TCK-00088,,2025-05-08T15:16,USR-0044,Ops,Chat,Hardware,Laptop,P3,Laptop will not start,The laptop does not start when the power button is pressed.,Resolved,TECH-01,User Education,8.42,No,No,5
+TCK-00089,,2025-06-09T16:23,USR-0045,Sales,Email,Security,Endpoint security,P3,Endpoint security alert,The endpoint tool displayed a security alert that needs review.,Resolved,TECH-02,Workaround,20.92,No,No,
+TCK-00090,,2025-07-10T08:30,USR-0001,Sales,Portal,Email,Outlook,P3,Mailbox search is slow,Searching the mailbox takes much longer than usual.,Closed,TECH-03,User Education,8.44,No,No,
+TCK-00091,,2025-08-11T09:37,USR-0002,Engineering,Phone,Printing,Network printer,P3,Printer not found,The managed printer is missing from the user's printer list.,Resolved,TECH-04,Duplicate,5.92,No,No,5
+TCK-00092,,2025-09-12T10:44,USR-0003,Sales,Email,Account/Access,Active Directory,P3,Account locked after sign-in attempts,The account reports locked after several unsuccessful sign-in attempts.,Resolved,TECH-05,Duplicate,13.9,No,No,5
+TCK-00093,,2025-10-13T11:51,USR-0004,Sales,Chat,Software,Business application,P3,Application update failed,The managed application update did not complete.,Resolved,TECH-06,Fixed,11.92,No,No,
+TCK-00094,,2025-11-14T12:58,USR-0005,Finance,Email,Printing,Network printer,P3,Printer not found,The managed printer is missing from the user's printer list.,Resolved,TECH-07,Fixed,10.45,No,No,3
+TCK-00095,,2025-12-15T13:05,USR-0006,Sales,Portal,VPN,Corporate VPN,P3,Cannot connect to VPN from home,"Internet works, but the approved VPN client fails to connect.",Closed,TECH-08,Fixed,13.95,No,No,3
+TCK-00096,,2025-01-16T14:12,USR-0007,HR,Portal,Email,Outlook,P4,Mailbox search is slow,Searching the mailbox takes much longer than usual.,Resolved,TECH-01,Fixed,4.4,No,No,5
+TCK-00097,,2025-02-17T15:19,USR-0008,Finance,Phone,Software,Business application,P4,Business app crashes on launch,The approved business application closes immediately after launch.,Resolved,TECH-02,User Education,5.0,No,No,5
+TCK-00098,,2025-03-18T16:26,USR-0009,Finance,Chat,Software,Business application,P3,Business app crashes on launch,The approved business application closes immediately after launch.,Resolved,TECH-03,Workaround,3.47,No,No,5
+TCK-00099,,2025-04-19T08:33,USR-0010,HR,Portal,Account/Access,Active Directory,P3,Password reset request,The user needs help with the approved password reset process.,Resolved,TECH-04,Fixed,17.27,No,No,4
+TCK-00100,,2025-05-20T09:40,USR-0011,Ops,Email,Email,Outlook,P2,Mailbox search is slow,Searching the mailbox takes much longer than usual.,Closed,TECH-05,Workaround,20.65,No,Yes,3
+TCK-00101,,2025-06-21T10:47,USR-0012,Engineering,Chat,Software,Business application,P3,Business app crashes on launch,The approved business application closes immediately after launch.,Resolved,TECH-06,Fixed,15.12,No,No,
+TCK-00102,,2025-07-22T11:54,USR-0013,Ops,Portal,Security,Endpoint security,P3,Suspicious sign-in notification,The user received an unexpected sign-in notification.,Resolved,TECH-07,User Education,12.62,No,No,
+TCK-00103,,2025-08-23T12:01,USR-0014,HR,Chat,Network,Office network,P4,Cannot reach internal service,The internal service cannot be reached from the office network.,Resolved,TECH-08,User Education,10.06,Yes,No,5
+TCK-00104,,2025-09-24T13:08,USR-0015,Sales,Phone,Printing,Network printer,P3,Printer job is stuck,Print jobs remain in the queue and do not print.,Resolved,TECH-01,Fixed,13.44,No,No,4
+TCK-00105,,2025-10-25T14:15,USR-0016,Sales,Chat,VPN,Corporate VPN,P3,VPN authentication error,The VPN client rejects the user's current sign-in.,Closed,TECH-02,Workaround,22.51,No,No,4
+TCK-00106,,2025-11-26T15:22,USR-0017,Engineering,Chat,Email,Outlook,P3,Cannot send email,Outlook remains in the sending state and messages stay in the outbox.,Resolved,TECH-03,Fixed,9.38,No,No,
+TCK-00107,,2025-12-27T16:29,USR-0018,Finance,Chat,VPN,Corporate VPN,P4,VPN authentication error,The VPN client rejects the user's current sign-in.,Resolved,TECH-04,Workaround,12.26,No,No,4
+TCK-00108,,2025-01-01T08:36,USR-0019,Engineering,Portal,Printing,Network printer,P4,Printer job is stuck,Print jobs remain in the queue and do not print.,Resolved,TECH-05,Fixed,15.98,No,No,4
+TCK-00109,,2025-02-02T09:43,USR-0020,HR,Email,Account/Access,Active Directory,P4,Password reset request,The user needs help with the approved password reset process.,Resolved,TECH-06,Workaround,23.59,No,No,5
+TCK-00110,,2025-03-03T10:50,USR-0021,HR,Portal,Account/Access,Active Directory,P4,Password reset request,The user needs help with the approved password reset process.,Closed,TECH-07,Duplicate,18.6,No,No,4
+TCK-00111,,2025-04-04T11:57,USR-0022,Sales,Chat,Printing,Network printer,P3,Printer not found,The managed printer is missing from the user's printer list.,Resolved,TECH-08,Fixed,10.58,No,No,3
+TCK-00112,,2025-05-05T12:04,USR-0023,Finance,Portal,Software,Business application,P4,Application update failed,The managed application update did not complete.,Resolved,TECH-01,Duplicate,14.87,No,No,5
+TCK-00113,,2025-06-06T13:11,USR-0024,Finance,Email,VPN,Corporate VPN,P3,VPN disconnects repeatedly,The VPN disconnects every few minutes after a client update.,Resolved,TECH-02,Duplicate,11.53,No,No,3
+TCK-00114,,2025-07-07T14:18,USR-0025,Finance,Chat,Network,Office network,P4,Cannot reach internal service,The internal service cannot be reached from the office network.,Resolved,TECH-03,User Education,21.97,Yes,No,5
+TCK-00115,,2025-08-08T15:25,USR-0026,Finance,Phone,Account/Access,Active Directory,P4,Access denied to shared folder,The user cannot open a shared folder they normally use.,Closed,TECH-04,Workaround,12.03,No,No,3
+TCK-00116,,2025-09-09T16:32,USR-0027,Engineering,Email,VPN,Corporate VPN,P4,VPN authentication error,The VPN client rejects the user's current sign-in.,Resolved,TECH-05,Duplicate,10.1,No,No,3
+TCK-00117,,2025-10-10T08:39,USR-0028,Sales,Phone,Hardware,Laptop,P4,Laptop battery drains quickly,Battery runtime is much shorter than usual.,Resolved,TECH-06,Workaround,13.89,No,No,3
+TCK-00118,,2025-11-11T09:46,USR-0029,Sales,Phone,Account/Access,Active Directory,P4,Access denied to shared folder,The user cannot open a shared folder they normally use.,Resolved,TECH-07,User Education,2.65,No,No,3
+TCK-00119,,2025-12-12T10:53,USR-0030,Ops,Chat,Account/Access,Active Directory,P3,Account locked after sign-in attempts,The account reports locked after several unsuccessful sign-in attempts.,Resolved,TECH-08,User Education,12.11,No,No,
+TCK-00120,,2025-01-13T11:00,USR-0031,HR,Chat,VPN,Corporate VPN,P2,Cannot connect to VPN from home,"Internet works, but the approved VPN client fails to connect.",Closed,TECH-01,User Education,2.39,No,No,4
+TCK-00121,,2025-02-14T12:07,USR-0032,Engineering,Phone,Security,Endpoint security,P3,Suspicious sign-in notification,The user received an unexpected sign-in notification.,Resolved,TECH-02,Fixed,10.49,No,No,4
+TCK-00122,,2025-03-15T13:14,USR-0033,Ops,Email,Security,Endpoint security,P4,Endpoint security alert,The endpoint tool displayed a security alert that needs review.,Resolved,TECH-03,User Education,3.48,No,No,
+TCK-00123,,2025-04-16T14:21,USR-0034,Finance,Phone,Account/Access,Active Directory,P3,Account locked after sign-in attempts,The account reports locked after several unsuccessful sign-in attempts.,Resolved,TECH-04,Workaround,13.54,No,No,4
+TCK-00124,,2025-05-17T15:28,USR-0035,HR,Phone,Hardware,Laptop,P4,Docking station display issue,An external monitor is not detected through the dock.,Resolved,TECH-05,Duplicate,8.03,No,No,
+TCK-00125,,2025-06-18T16:35,USR-0036,Engineering,Chat,Security,Endpoint security,P3,Endpoint security alert,The endpoint tool displayed a security alert that needs review.,Closed,TECH-06,User Education,16.13,No,No,5
+TCK-00126,,2025-07-19T08:42,USR-0037,Finance,Phone,Email,Outlook,P2,Cannot send email,Outlook remains in the sending state and messages stay in the outbox.,Resolved,TECH-07,Fixed,12.93,No,No,5
+TCK-00127,,2025-08-20T09:49,USR-0038,Ops,Portal,Hardware,Laptop,P4,Laptop battery drains quickly,Battery runtime is much shorter than usual.,Resolved,TECH-08,Fixed,17.96,No,No,5
+TCK-00128,,2025-09-21T10:56,USR-0039,HR,Email,Network,Office network,P3,Office Wi-Fi is unstable,Wi-Fi disconnects intermittently in one office area.,Resolved,TECH-01,Fixed,9.03,No,No,5
+TCK-00129,,2025-10-22T11:03,USR-0040,Sales,Chat,Hardware,Laptop,P2,Laptop will not start,The laptop does not start when the power button is pressed.,Resolved,TECH-02,User Education,11.91,No,No,5
+TCK-00130,,2025-11-23T12:10,USR-0041,Engineering,Portal,Hardware,Laptop,P3,Docking station display issue,An external monitor is not detected through the dock.,Closed,TECH-03,Fixed,16.0,Yes,No,3
+TCK-00131,,2025-12-24T13:17,USR-0042,Ops,Chat,Hardware,Laptop,P3,Docking station display issue,An external monitor is not detected through the dock.,Resolved,TECH-04,Duplicate,7.16,Yes,No,5
+TCK-00132,,2025-01-25T14:24,USR-0043,Finance,Email,VPN,Corporate VPN,P3,Cannot connect to VPN from home,"Internet works, but the approved VPN client fails to connect.",Resolved,TECH-05,Fixed,2.83,No,No,5
+TCK-00133,,2025-02-26T15:31,USR-0044,Engineering,Chat,Printing,Network printer,P4,Printer job is stuck,Print jobs remain in the queue and do not print.,Resolved,TECH-06,Duplicate,19.14,No,No,
+TCK-00134,,2025-03-27T16:38,USR-0045,Sales,Portal,VPN,Corporate VPN,P3,VPN authentication error,The VPN client rejects the user's current sign-in.,Resolved,TECH-07,Fixed,2.15,No,No,3
+TCK-00135,,2025-04-01T08:45,USR-0001,Sales,Email,VPN,Corporate VPN,P3,VPN disconnects repeatedly,The VPN disconnects every few minutes after a client update.,Closed,TECH-08,Fixed,10.09,No,No,
+TCK-00136,,2025-05-02T09:52,USR-0002,Finance,Portal,Account/Access,Active Directory,P4,Access denied to shared folder,The user cannot open a shared folder they normally use.,Resolved,TECH-01,User Education,5.4,No,No,5
+TCK-00137,,2025-06-03T10:59,USR-0003,HR,Email,Printing,Network printer,P3,Printer job is stuck,Print jobs remain in the queue and do not print.,Resolved,TECH-02,Workaround,11.66,No,No,3
+TCK-00138,,2025-07-04T11:06,USR-0004,Engineering,Email,Printing,Network printer,P3,Printer job is stuck,Print jobs remain in the queue and do not print.,Resolved,TECH-03,User Education,16.17,Yes,No,5
+TCK-00139,,2025-08-05T12:13,USR-0005,HR,Portal,Network,Office network,P3,Office Wi-Fi is unstable,Wi-Fi disconnects intermittently in one office area.,Resolved,TECH-04,Duplicate,17.95,No,No,
+TCK-00140,,2025-09-06T13:20,USR-0006,Finance,Portal,Network,Office network,P3,Cannot reach internal service,The internal service cannot be reached from the office network.,Closed,TECH-05,Fixed,11.22,No,No,3
+TCK-00141,,2025-10-07T14:27,USR-0007,Engineering,Portal,Network,Office network,P3,Cannot reach internal service,The internal service cannot be reached from the office network.,Resolved,TECH-06,Fixed,11.24,No,No,4
+TCK-00142,,2025-11-08T15:34,USR-0008,Ops,Portal,Account/Access,Active Directory,P4,Access denied to shared folder,The user cannot open a shared folder they normally use.,Resolved,TECH-07,Duplicate,17.73,No,No,4
+TCK-00143,,2025-12-09T16:41,USR-0009,Engineering,Email,Hardware,Laptop,P4,Laptop will not start,The laptop does not start when the power button is pressed.,Resolved,TECH-08,Duplicate,5.57,No,No,
+TCK-00144,,2025-01-10T08:48,USR-0010,Ops,Chat,Email,Outlook,P3,Mailbox search is slow,Searching the mailbox takes much longer than usual.,Resolved,TECH-01,Duplicate,4.92,No,No,3
+TCK-00145,,2025-02-11T09:55,USR-0011,HR,Phone,Account/Access,Active Directory,P4,Access denied to shared folder,The user cannot open a shared folder they normally use.,Closed,TECH-02,Workaround,7.65,No,No,
+TCK-00146,,2025-03-12T10:02,USR-0012,Ops,Portal,Hardware,Laptop,P3,Laptop will not start,The laptop does not start when the power button is pressed.,Resolved,TECH-03,Workaround,11.98,No,No,5
+TCK-00147,,2025-04-13T11:09,USR-0013,Sales,Portal,Email,Outlook,P3,Mailbox search is slow,Searching the mailbox takes much longer than usual.,Resolved,TECH-04,Duplicate,3.76,No,No,3
+TCK-00148,,2025-05-14T12:16,USR-0014,HR,Email,Software,Business application,P3,Business app crashes on launch,The approved business application closes immediately after launch.,Resolved,TECH-05,Fixed,8.63,No,No,4
+TCK-00149,,2025-06-15T13:23,USR-0015,Finance,Portal,Software,Business application,P3,Application update failed,The managed application update did not complete.,Resolved,TECH-06,Duplicate,0.5,No,No,4
+TCK-00150,,2025-07-16T14:30,USR-0016,HR,Email,Account/Access,Active Directory,P3,Account locked after sign-in attempts,The account reports locked after several unsuccessful sign-in attempts.,Closed,TECH-07,User Education,1.32,No,No,

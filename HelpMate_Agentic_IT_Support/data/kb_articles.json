@@ -1,0 +1,38 @@
+[
+  {
+    "id": "KB-VPN-01",
+    "title": "Approved first-line guidance: VPN",
+    "category": "VPN",
+    "content": "Confirm internet access, restart the approved VPN client, refresh its approved profile, and retry. Escalate if the issue persists. Verify the result with the requester. Follow organizational policy and never request passwords or MFA codes."
+  },
+  {
+    "id": "KB-EMAIL-02",
+    "title": "Approved first-line guidance: Email",
+    "category": "Email",
+    "content": "Check service status, restart Outlook, confirm connectivity, and follow the approved mailbox repair steps if needed. Verify the result with the requester. Follow organizational policy and never request passwords or MFA codes."
+  },
+  {
+    "id": "KB-ACCOUNT-ACCESS-03",
+    "title": "Approved first-line guidance: Account/Access",
+    "category": "Account/Access",
+    "content": "Verify the requester through the approved process, check account status, and use the approved self-service or service-desk reset workflow. Verify the result with the requester. Follow organizational policy and never request passwords or MFA codes."
+  },
+  {
+    "id": "KB-HARDWARE-04",
+    "title": "Approved first-line guidance: Hardware",
+    "category": "Hardware",
+    "content": "Check power, cables, docking connections, and approved device diagnostics. Escalate hardware faults to desktop support. Verify the result with the requester. Follow organizational policy and never request passwords or MFA codes."
+  },
+  {
+    "id": "KB-SOFTWARE-05",
+    "title": "Approved first-line guidance: Software",
+    "category": "Software",
+    "content": "Capture the error, restart the application, verify managed updates, and escalate with logs if the issue continues. Verify the result with the requester. Follow organizational policy and never request passwords or MFA codes."
+  },
+  {
+    "id": "KB-NETWORK-06",
+    "title": "Approved first-line guidance: Network",
+    "category": "Network",
+    "content": "Confirm scope, compare affected users/locations, check approved network status, and escalate broad impact. Verify the result with the requester. Follow organizational policy and never request passwords or MFA codes."
+  }
+]
